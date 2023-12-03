@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "day1": "ts-node day-1-trebuchet/solution.ts",
-    "day2": "ts-node day-2-cube-conundrum/solution.ts",
+    "day1": "ts-node day-1/solution.ts",
+    "day2": "ts-node day-2/solution.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
