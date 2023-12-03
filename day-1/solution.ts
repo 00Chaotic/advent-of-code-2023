@@ -5,7 +5,7 @@ function partOne(): void {
   console.log("==========PART ONE==========");
 
   const readInterface = readline.createInterface({
-    input: fs.createReadStream("day-1-trebuchet/input-p1.txt"),
+    input: fs.createReadStream("day-1/input-p1.txt"),
   });
 
   let result = 0;
@@ -28,7 +28,7 @@ function partTwo(): void {
   console.log("==========PART TWO==========");
 
   const readInterface = readline.createInterface({
-    input: fs.createReadStream("day-1-trebuchet/input-p2.txt"),
+    input: fs.createReadStream("day-1/input-p2.txt"),
   });
 
   let result = 0;

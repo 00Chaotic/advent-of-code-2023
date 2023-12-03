@@ -62,7 +62,7 @@ function parseGame(line: string): Game {
 
 function partOne() {
   const readInterface = readline.createInterface({
-    input: fs.createReadStream("day-2-cube-conundrum/input-p1.txt"),
+    input: fs.createReadStream("day-2/input-p1.txt"),
   });
 
   let sumOfGameIDs = 0;
@@ -85,7 +85,7 @@ function partOne() {
 
 function partTwo() {
   const readInterface = readline.createInterface({
-    input: fs.createReadStream("day-2-cube-conundrum/input-p2.txt"),
+    input: fs.createReadStream("day-2/input-p2.txt"),
   });
 
   let sumOfPowers = 0;
