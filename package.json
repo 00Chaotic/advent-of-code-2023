@@ -7,6 +7,7 @@
     "day1": "ts-node day-1/solution.ts",
     "day2": "ts-node day-2/solution.ts",
     "day3": "ts-node day-3/solution.ts",
+    "day4": "ts-node day-4/solution.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
